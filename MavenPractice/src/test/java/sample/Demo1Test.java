@@ -6,7 +6,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.Test;
 
 public class Demo1Test {
-
+//pull back
 	WebDriver driver=null;
 	
 	@Test
